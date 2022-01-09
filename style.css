@@ -1,0 +1,37 @@
+body{
+    background-color: #b7b7b7;
+}
+.container{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin: 50px;
+    font-family: cursive;
+    font-size: 5rem;
+    color: green;
+}
+p{
+    margin: 10px;
+    font-family: cursive;
+    font-size: 2rem;
+    color: maroon
+}
+img{
+    width:60%
+}
+.click{
+    text-align: center;
+    margin: 5%;
+}
+footer{
+    font-family: fantasy;
+    color: blue;
+    text-align: center;
+    margin: 10%;
+}
